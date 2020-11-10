@@ -10,5 +10,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "elm-hot": "^1.1.5",
+    "node-elm-compiler": "^5.0.5"
+  }
 }
