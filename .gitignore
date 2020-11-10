@@ -1,2 +1,5 @@
 dist/
 .cache
+node_modules/
+.DS_Store
+package-loc
